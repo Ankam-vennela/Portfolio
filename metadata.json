@@ -1,0 +1,6 @@
+{
+  "name": "Ankam Vennela Portfolio",
+  "description": "High-fidelity, elegant fully-responsive coding portfolio for Ankam Vennela, featuring an Express backend with nodemailer email integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
